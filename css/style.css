@@ -56,6 +56,7 @@ body {
 .acerca__contenido {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
     gap: 3rem;
     margin-top: 2rem;
@@ -106,7 +107,7 @@ body {
 
 .section__title {
     font-size: 2rem;
-    border-bottom: 0.2rem solid #64ffda;
+    border-bottom: 0.2rem solid #0a192f;
     display: inline-block;
     margin-bottom: 1rem;
 }
